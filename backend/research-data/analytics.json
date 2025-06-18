@@ -1,0 +1,31 @@
+{
+  "totalSessions": 3,
+  "totalMessages": 16,
+  "averageRating": 2.7,
+  "lastUpdated": "2025-06-18T13:50:59.440Z",
+  "contextDistribution": {
+    "undefined": 16
+  },
+  "hierarchyDistribution": {
+    "student-to-staff": 7,
+    "student-to-dosen": 9
+  },
+  "formalityDistribution": {
+    "casual": 8,
+    "formal": 8
+  },
+  "ratingDistribution": {
+    "1": 3,
+    "2": 1,
+    "3": 2,
+    "4": 4,
+    "5": 0
+  },
+  "topicDistribution": {
+    "wifi": 4,
+    "beasiswa": 2,
+    "perpustakaan": 3,
+    "daftar ulang": 2,
+    "spp": 1
+  }
+}

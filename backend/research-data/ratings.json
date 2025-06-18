@@ -1,0 +1,102 @@
+[
+  {
+    "messageId": 1750253922989,
+    "rating": 4,
+    "feedback": "Baik tapi bisa lebih natural",
+    "hierarchy": "student-to-staff",
+    "formality": "casual",
+    "sessionId": "test-session-1750253922924",
+    "timestamp": "2025-06-18T13:38:42.992Z",
+    "id": 1750253922992.8296
+  },
+  {
+    "messageId": 1750253923106,
+    "rating": 1,
+    "feedback": "Tidak membantu sama sekali",
+    "hierarchy": "student-to-dosen",
+    "formality": "formal",
+    "sessionId": "test-session-1750253922924",
+    "timestamp": "2025-06-18T13:38:43.110Z",
+    "id": 1750253923110.3767
+  },
+  {
+    "messageId": 1750253923717,
+    "rating": 4,
+    "feedback": "Baik tapi bisa lebih natural",
+    "hierarchy": "student-to-staff",
+    "formality": "formal",
+    "sessionId": "test-session-1750253922924",
+    "timestamp": "2025-06-18T13:38:43.720Z",
+    "id": 1750253923720.111
+  },
+  {
+    "messageId": 1750253923837,
+    "rating": 4,
+    "feedback": "Baik tapi bisa lebih natural",
+    "hierarchy": "student-to-staff",
+    "formality": "casual",
+    "sessionId": "test-session-1750253922924",
+    "timestamp": "2025-06-18T13:38:43.839Z",
+    "id": 1750253923839.4673
+  },
+  {
+    "messageId": 1750254487642,
+    "rating": 3,
+    "feedback": "Cukup membantu",
+    "hierarchy": "student-to-staff",
+    "formality": "casual",
+    "sessionId": "test-session-1750254487571",
+    "timestamp": "2025-06-18T13:48:07.645Z",
+    "id": 1750254487645.901
+  },
+  {
+    "messageId": 1750254487766,
+    "rating": 1,
+    "feedback": "Tidak membantu sama sekali",
+    "hierarchy": "student-to-dosen",
+    "formality": "formal",
+    "sessionId": "test-session-1750254487571",
+    "timestamp": "2025-06-18T13:48:07.769Z",
+    "id": 1750254487769.7234
+  },
+  {
+    "messageId": 1750254488142,
+    "rating": 1,
+    "feedback": "Tidak membantu sama sekali",
+    "hierarchy": "student-to-staff",
+    "formality": "casual",
+    "sessionId": "test-session-1750254487571",
+    "timestamp": "2025-06-18T13:48:08.147Z",
+    "id": 1750254488147.173
+  },
+  {
+    "messageId": 1750254488270,
+    "rating": 2,
+    "feedback": "Kurang sesuai ekspektasi",
+    "hierarchy": "student-to-dosen",
+    "formality": "formal",
+    "sessionId": "test-session-1750254487571",
+    "timestamp": "2025-06-18T13:48:08.273Z",
+    "id": 1750254488273.031
+  },
+  {
+    "messageId": 1750254488649,
+    "rating": 3,
+    "feedback": "Cukup membantu",
+    "hierarchy": "student-to-staff",
+    "formality": "formal",
+    "sessionId": "test-session-1750254487571",
+    "timestamp": "2025-06-18T13:48:08.652Z",
+    "id": 1750254488652.6216
+  },
+  {
+    "messageId": 1750254639520,
+    "rating": 4,
+    "feedback": "",
+    "hierarchy": "student-to-dosen",
+    "formality": "casual",
+    "sessionId": "2025-06-18T13:34:54.886Z",
+    "timestamp": "2025-06-18T13:50:42.036Z",
+    "id": 1750254642036.4194
+  }
+]
